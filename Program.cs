@@ -26,8 +26,8 @@ class Program
                 response.EnsureSuccessStatusCode(); // ridică excepție dacă status != 2xx
 
                 string responseBody = await response.Content.ReadAsStringAsync();
-                Console.WriteLine("Răspuns API:");
-                Console.WriteLine(responseBody);
+                //Console.WriteLine("Răspuns API:");
+                //Console.WriteLine(responseBody);
 
                 var firma = JsonSerializer.Deserialize<FirmaInfo>(responseBody);
 
