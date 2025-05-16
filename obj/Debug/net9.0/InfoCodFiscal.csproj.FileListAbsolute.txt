@@ -12,3 +12,4 @@ c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\refint\InfoCodFiscal.
 c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.pdb
 c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.genruntimeconfig.cache
 c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\ref\InfoCodFiscal.dll
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.sourcelink.json

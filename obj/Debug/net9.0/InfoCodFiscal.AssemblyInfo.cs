@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfoCodFiscal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db1ea93f884bc3759c43a18f7b93b1df27c253fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfoCodFiscal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfoCodFiscal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
