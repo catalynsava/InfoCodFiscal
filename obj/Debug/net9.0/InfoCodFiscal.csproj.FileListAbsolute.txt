@@ -1,0 +1,14 @@
+c:\Users\catal\source\repos\InfoCodFiscal\bin\Debug\net9.0\InfoCodFiscal.exe
+c:\Users\catal\source\repos\InfoCodFiscal\bin\Debug\net9.0\InfoCodFiscal.deps.json
+c:\Users\catal\source\repos\InfoCodFiscal\bin\Debug\net9.0\InfoCodFiscal.runtimeconfig.json
+c:\Users\catal\source\repos\InfoCodFiscal\bin\Debug\net9.0\InfoCodFiscal.dll
+c:\Users\catal\source\repos\InfoCodFiscal\bin\Debug\net9.0\InfoCodFiscal.pdb
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.AssemblyInfoInputs.cache
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.AssemblyInfo.cs
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.csproj.CoreCompileInputs.cache
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.dll
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\refint\InfoCodFiscal.dll
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.pdb
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\InfoCodFiscal.genruntimeconfig.cache
+c:\Users\catal\source\repos\InfoCodFiscal\obj\Debug\net9.0\ref\InfoCodFiscal.dll
